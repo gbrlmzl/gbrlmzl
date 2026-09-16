@@ -1,14 +1,17 @@
 ## Olá, me chamo Gabriel Mizael 👋
 
-<a href="https://gabrielmizael.com" target="_blank">
-  <img alt="Portfólio: gabrielmizael.com" src="https://img.shields.io/badge/Portf%C3%B3lio-gabrielmizael.com-F0A35E?style=for-the-badge&labelColor=0B0C0E" />
-</a>
+
 
 * 🎓 Graduando em Sistemas de Informação na **UFPB**, com conclusão prevista para 12/2027
 * 🚀 Dois sistemas full stack **em produção**, atendendo usuários reais
 * 🧪 Escrevo testes automatizados nas três camadas da pirâmide, rodando em CI a cada push
 * ☁️ Construo sistemas do front-end ao deploy: utilizando Docker, GitHub Actions e AWS
 * 📍 Guarabira, Paraíba
+
+
+<a href="https://gabrielmizael.com" target="_blank">
+  <img alt="Portfólio: gabrielmizael.com" src="https://img.shields.io/badge/Portf%C3%B3lio-gabrielmizael.com-F0A35E?style=for-the-badge&labelColor=0B0C0E" />
+</a>
 
 ## 🧰 Tecnologias
 
